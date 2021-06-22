@@ -1,6 +1,3 @@
-### Summary 💡
-![CodersRank Summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=prnk28)
-
 ### Skills Graph 📈
 ![CodersRank Skill Graph](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=prnk28)
 
