@@ -1,8 +1,10 @@
-### Hi there 👋
+### Summary 💡
+![CodersRank Summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=prnk28)
+
+### Skills Graph 📈
+![CodersRank Skill Graph](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=prnk28)
 
 <!--
-**prnk28/prnk28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
