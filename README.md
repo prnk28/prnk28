@@ -15,7 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [A Deep Dive into Flutter: The 22nd Century Frontend Framework (Part 2)](https://medium.com/flutter-community/a-deep-dive-into-flutter-the-22nd-century-frontend-framework-part-2-8964c02706b9?source=rss-5025cdc5d3e9------2)
+- [A Deep Dive into Flutter: The 22nd Century Frontend Framework &lpar;Part 2&rpar;](https://medium.com/flutter-community/a-deep-dive-into-flutter-the-22nd-century-frontend-framework-part-2-8964c02706b9?source=rss-5025cdc5d3e9------2)
 - [A Deep Dive into Flutter: The 22nd Century Frontend Framework](https://medium.com/flutter-community/deep-dive-in-flutter-b0b827440a49?source=rss-5025cdc5d3e9------2)
 - [A Simple Quote To Save Your Project Complacency](https://medium.com/swlh/a-simple-quote-to-save-your-project-complacency-65f1cdd9ca23?source=rss-5025cdc5d3e9------2)
 - [How I Made My Minimum Amazing Product In A Day](https://medium.com/swlh/map-day-84dd2fe11b1a?source=rss-5025cdc5d3e9------2)
