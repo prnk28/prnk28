@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Flutter, Unity, and Libp2p**
 
-- 📫 How to reach me **pradn@sonr.io**
+- 📫 How to reach me **@thisisprad on Twitter**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
