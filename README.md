@@ -7,7 +7,7 @@
 
 - 🔭 Currently working on building a Better Internet. [Sonr](https://sonr.io)
 
-- 👨‍💻 All of my projects are available at [https://prad.dev](https://prad.dev)
+- 👨‍💻 All of my projects are available at [https://pradn.me](https://pradn.me)
 
 - 💬 Ask me about **Flutter, Unity, and Libp2p**
 
