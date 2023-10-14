@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pradn.me](https://pradn.me)
 
-- 💬 Ask me about **Flutter, Unity, and Libp2p**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **@thisisprad on Twitter**
 
