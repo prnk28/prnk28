@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prad</h1>
 <h3 align="center">Founder at Sonr based out of Brooklyn, NY.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=prnk28" alt="prnk28 skills chart" /></a> </p>
+<p align="left"> <a href="https://profile.codersrank.io/user/prnk28/"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=prnk28" alt="prnk28 skills chart" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/thisisprad" target="blank"><img src="https://img.shields.io/twitter/follow/thisisprad?logo=twitter&style=for-the-badge" alt="thisisprad" /></a> </p>
 
