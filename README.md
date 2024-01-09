@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prad</h1>
-<h3 align="center">Founder at Sonr based out of Brooklyn, NY.</h3>
+<h3 align="center">Founder at Sonr based out of SF.</h3>
 
 <p align="left"> <a href="https://profile.codersrank.io/user/prnk28/"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=prnk28" alt="prnk28 skills chart" /></a> </p>
 
